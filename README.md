@@ -5,6 +5,6 @@ This repository is where I document things I learn during my engineering journey
 
 Current goals:
 
-  Learn GitHub
-  Improve programming skills
-  Explore new technologies
+  Learn GitHub,
+  Improve programming skills,
+  Explore new technologies.
