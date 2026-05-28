@@ -1,0 +1,3 @@
+Hey!
+I'm Asna.
+I'm learning GitHub and Python.
